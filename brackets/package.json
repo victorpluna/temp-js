@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  }
+}
